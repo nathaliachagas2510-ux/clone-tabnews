@@ -1,13 +1,5 @@
 function Home() {
-    return (
-  <div> 
-    <h1>teste</h1>
-    <p>Asafe,eu amo voce. Se voce me ama, Da uma risada!!</p>
-  </div>      
-)
+  return <h1>Asafe, eu amo voce. Sevoceme ama, da uma risada!!</h1>;
 }
 
 export default Home;
-
-
-
